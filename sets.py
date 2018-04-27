@@ -1,8 +1,8 @@
-UPDOG
-Jasper Cheung and Shannon Lau
-SoftDev2 pd7
-K16 -- Ready, Set, Math!
-2018-04-27
+#UPDOG
+#Jasper Cheung and Shannon Lau
+#SoftDev2 pd7
+#K16 -- Ready, Set, Math!
+#2018-04-27
 
 def union(a,b):
     return set_difference(a,b) + b
